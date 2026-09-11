@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+CIFAR-10/
+cifar-10-batches-py/
+.DS_Store
